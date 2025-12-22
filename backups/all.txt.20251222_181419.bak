@@ -1,0 +1,11 @@
+# VPN Configs - Auto-Updated
+# Last Update: 2025-12-22 12:18:40 UTC
+# Total Configs: 4
+# Checksum: c402d8773ec9c345
+# Source: Telegram ProxyHive Channel
+# Auto-generated - Do not edit manually
+
+vless://e2d46c7c-958d-4d48-9d50-3a77834463bb@82wju0df0c73.dx1dx.com:443?hiddify=1&sni=82wju0df0c73.dx1dx.com&type=httpupgrade&alpn=http%2F1.1&path=%2FlodXVDhBdhjYUflID1p1M1Z&host=82wju0df0c73.dx1dx.com&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F140.0.0.0%20YaBrowser%2F25.10.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#82wju0df0c73.dx1dx.com%20tls%20httpupgrade%20direct%20vless`
+ss://e2d46c7c-958d-4d48-9d50-3a77834463bb@82wju0df0c73.dx1dx.com:443?hiddify=1&sni=82wju0df0c73.dx1dx.com&type=httpupgrade&alpn=http%2F1.1&path=%2FlodXVDhBdhjYUflID1p1M1Z&host=82wju0df0c73.dx1dx.com&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F140.0.0.0%20YaBrowser%2F25.10.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#82wju0df0c73.dx1dx.com%20tls%20httpupgrade%20direct%20vless`
+https://t.me/proxyhive/9959)
+https://t.me/proxyhive)
