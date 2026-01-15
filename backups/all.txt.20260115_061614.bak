@@ -1,0 +1,13 @@
+# VPN Configs - Auto-Updated
+# Last Update: 2026-01-15 00:44:26 UTC
+# Total Configs: 6
+# Checksum: 736d137deb077bbc
+# Source: Telegram ProxyHive Channel
+# Auto-generated - Do not edit manually
+
+vless://82b49177-2274-4bb1-a575-b452e4b4e46a@lwtrxcf40d18.dop15.com:443?hiddify=1&sni=lwtrxcf40d18.dop15.com&type=grpc&alpn=h2&path=td7bc0sRJDL9gi40WK&host=lwtrxcf40d18.dop15.com&serviceName=td7bc0sRJDL9gi40WK&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F141.0.0.0%20Safari%2F537.36%20OPR%2F125.0.0.0%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#lwtrxcf40d18.dop15.com%20tls%20grpc%20direct%20vless
+vless://82b49177-2274-4bb1-a575-b452e4b4e46a@qahphrof0d18.librekit.com:443?hiddify=1&sni=qahphrof0d18.librekit.com&type=grpc&alpn=h2&path=td7bc0sRJDL9gi40WK&host=qahphrof0d18.librekit.com&serviceName=td7bc0sRJDL9gi40WK&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F141.0.0.0%20Safari%2F537.36%20OPR%2F125.0.0.0%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#proxyhive%20tls%20grpc%20direct%20vless`
+ss://82b49177-2274-4bb1-a575-b452e4b4e46a@lwtrxcf40d18.dop15.com:443?hiddify=1&sni=lwtrxcf40d18.dop15.com&type=grpc&alpn=h2&path=td7bc0sRJDL9gi40WK&host=lwtrxcf40d18.dop15.com&serviceName=td7bc0sRJDL9gi40WK&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F141.0.0.0%20Safari%2F537.36%20OPR%2F125.0.0.0%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#lwtrxcf40d18.dop15.com%20tls%20grpc%20direct%20vless
+ss://82b49177-2274-4bb1-a575-b452e4b4e46a@qahphrof0d18.librekit.com:443?hiddify=1&sni=qahphrof0d18.librekit.com&type=grpc&alpn=h2&path=td7bc0sRJDL9gi40WK&host=qahphrof0d18.librekit.com&serviceName=td7bc0sRJDL9gi40WK&mode=gun&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F141.0.0.0%20Safari%2F537.36%20OPR%2F125.0.0.0%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#proxyhive%20tls%20grpc%20direct%20vless`
+https://t.me/proxyhive/9959)
+https://t.me/proxyhive)
